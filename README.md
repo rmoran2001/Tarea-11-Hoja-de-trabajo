@@ -3,6 +3,7 @@ Hoja de trabajo
 
 ![image](https://github.com/user-attachments/assets/b3eaa9e8-01c9-4cdb-85c1-57539f472484)
 
+
 Guía para Ejecutar Pruebas del Ejercicio
 1. Clona el Repositorio
 1.	Abre una terminal (o el símbolo del sistema en Windows).
@@ -54,4 +55,7 @@ Resumen
 3.	Instala dependencias: npm install
 4.	Ejecuta las pruebas: npm test
 5.	Soluciona problemas comunes si aparecen errores en la ejecución.
+Estructura de carpetas
+![image](https://github.com/user-attachments/assets/39d01a85-0fc8-4f94-9f2c-937de90b344e)
+
 
