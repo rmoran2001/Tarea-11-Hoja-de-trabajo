@@ -7,8 +7,8 @@ Guía para Ejecutar Pruebas del Ejercicio
 1. Clona el Repositorio
 1.	Abre una terminal (o el símbolo del sistema en Windows).
 2.	Clona el repositorio usando el siguiente comando:
-bash
-Copiar código
+
+Copia el link del reposotorio 
 git clone https://github.com/rmoran2001/Tarea-11-Hoja-de-trabajo.git
 3.	Navega a la carpeta del proyecto:
 ![image](https://github.com/user-attachments/assets/c92af996-65c2-42d5-a85b-e72fe9186966)
